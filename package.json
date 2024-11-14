@@ -1,0 +1,15 @@
+{
+  "name": "img-hosting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pi": "node ./pushImage.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^3.27.0"
+  }
+}
